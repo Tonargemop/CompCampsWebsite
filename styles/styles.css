@@ -5,7 +5,31 @@ body {
       color:#ffffff;
 }
 
-
 h1 {
   color:#ffffff;
+}
+main {
+  color:black;
+}
+
+p {
+  background-color: green;
+  width: 202px;
+}
+
+.Bring-me-to-life{
+  padding-left: 300px;
+}
+
+.All-Star{
+  padding-left: 500px;
+}
+.CRAWLING-IN-MY-CRAWL{
+  padding-left: 700px;
+}
+.Get-Rick-Rolled{
+  padding-left: 900px;
+}
+.projects{
+  background-color: #7400FA;
 }
